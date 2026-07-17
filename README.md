@@ -13,10 +13,10 @@
 
 - 🔭 Actualmente trabajando en PetHouse, plataforma de adopción responsable de mascotas con IA.
 - 🌱 Aprendiendo a integrar modelos de IA (Ollama/LLaMA) en aplicaciones web.
-- 👯 Buscando colaborar en proyectos de Angular, React, React Native o desarrollo Android nativo.
-- 💬 Pregúntame lo que quieras, con gusto ayudo.
-- 📍 Barranquilla, Colombia.
+- 👯 Puedo colaborar en proyectos de Angular, React, React Native y desarrollo Android nativo
+- 💬 📍 Barranquilla, Colombia
 - 📫 Contacto: valienter69@gmail.com
+  
 <br/>
 <br/>
 
