@@ -25,19 +25,21 @@
 #
 
 
-<a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
-<br/>
-
-**LENGUAJES Y HERRAMIENTAS:**
-<br/>
-<br/>
-
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,tailwind,materialui,bootstrap,kotlin,androidstudio,py,fastapi,docker,git,github,mysql,linux,figma,vscode" />
-  </a>
-
-<br/>
-#
+<table>
+  <tr>
+    <td width="300">
+      <img alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif" width="300">
+    </td>
+    <td>
+      <strong>LENGUAJES Y HERRAMIENTAS:</strong>
+      <br/>
+      <br/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,tailwind,materialui,bootstrap,kotlin,androidstudio,py,fastapi,docker,git,github,mysql,linux,figma,vscode" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 #
 
