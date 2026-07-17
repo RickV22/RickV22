@@ -35,7 +35,7 @@
       <br/>
       <br/>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=angular,react,js,html,css,tailwind,materialui,bootstrap,kotlin,androidstudio,py,fastapi,docker,git,github,linux,figma,vscode" />
+        <img src="https://skillicons.dev/icons?i=angular,react,js,html,css,tailwind,materialui,bootstrap,kotlin,androidstudio" />
         <img src="https://skillicons.dev/icons?i=py,fastapi,docker,git,github,linux,figma,vscode" />
       </a>
     </td>
