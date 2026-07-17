@@ -5,38 +5,24 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hola 👋, Soy Ricardo</h1></summary>
+    <summary><h1 style="display: inline-block">Hola 👋 Soy Ricardo</h1></summary>
   </ul>
 </div>
 
+Estudiante de Ingeniería Telemática en la Institución Universitaria de Barranquilla, enfocado en desarrollo frontend web y aplicaciones móviles Android.
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
-</div>
-
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
-
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
-
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
-
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
-
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
-
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
-
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
+- 🔭 Actualmente trabajando en **PetHouse**, una plataforma de adopción responsable de mascotas con IA
+- 🌱 Aprendiendo a integrar modelos de IA (Ollama/LLaMA) en aplicaciones web
+- 💬 Puedo colaborar en proyectos de **Angular, React, React Native y desarrollo Android nativo**
+- 📍 Barranquilla, Colombia
+- 📫 Contacto: valienter69@gmail.com
 <!--Intro end-->
 
 
