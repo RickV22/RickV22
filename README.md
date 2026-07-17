@@ -26,6 +26,8 @@ Estudiante de Ingeniería Telemática en la Institución Universitaria de Barran
 <!--Intro end-->
 <br>
 <br>
+<br>
+<br>
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
