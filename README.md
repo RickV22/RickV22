@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="GIF/Earth.gif" width="24px">
-  𝐇𝐞𝐥𝐥𝐨, &lt;Soy Ricardo/&gt;!
+  Hola, &lt;Soy Ricardo/&gt;!
   <img src="GIF/Hi.gif" width="40px" />
 </h1>
 
@@ -35,7 +35,7 @@
       <br/>
       <br/>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,tailwind,materialui,bootstrap,kotlin,androidstudio,py,fastapi,docker,git,github,mysql,linux,figma,vscode" />
+        <img src="https://skillicons.dev/icons?i=angular,react,js,html,css,tailwind,materialui,bootstrap,kotlin,androidstudio,py,fastapi,docker,git,github,linux,figma,vscode" />
       </a>
     </td>
   </tr>
