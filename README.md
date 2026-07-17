@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="GIF/Earth.gif" width="24px">
-  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+  𝐇𝐞𝐥𝐥𝐨, &lt;Soy Ricardo/&gt;!
   <img src="GIF/Hi.gif" width="40px" />
 </h1>
 
@@ -11,12 +11,12 @@
 
 
 
-🔭 Actualmente trabajando en PetHouse, plataforma de adopción responsable de mascotas con IA.
-🌱 Aprendiendo a integrar modelos de IA (Ollama/LLaMA) en aplicaciones web.
-👯 Buscando colaborar en proyectos de Angular, React, React Native o desarrollo Android nativo.
-💬 Pregúntame lo que quieras, con gusto ayudo.
-📍 Barranquilla, Colombia.
-📫 Contacto: valienter69@gmail.com
+- 🔭 Actualmente trabajando en PetHouse, plataforma de adopción responsable de mascotas con IA.
+- 🌱 Aprendiendo a integrar modelos de IA (Ollama/LLaMA) en aplicaciones web.
+- 👯 Buscando colaborar en proyectos de Angular, React, React Native o desarrollo Android nativo.
+- 💬 Pregúntame lo que quieras, con gusto ayudo.
+- 📍 Barranquilla, Colombia.
+- 📫 Contacto: valienter69@gmail.com
 <br/>
 <br/>
 
