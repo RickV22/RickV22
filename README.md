@@ -6,7 +6,10 @@
 
 <br/>
 <br/>
-<p>Estudiante de Ingeniería Telemática en la Institución Universitaria de Barranquilla, enfocado en desarrollo frontend web y aplicaciones móviles Android.</p>
+<h4>Estudiante de Ingeniería Telemática en la Institución Universitaria de Barranquilla, enfocado en desarrollo frontend web y aplicaciones móviles Android.</h4>
+
+<br/>
+
 <p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
 
