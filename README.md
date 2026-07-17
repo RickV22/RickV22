@@ -37,7 +37,7 @@ Estudiante de Ingeniería Telemática en la Institución Universitaria de Barran
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,bootstrap,docker,figma,github,html,js,linux,materialui,mysql,nodejs,py,react,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,discord,bootstrap,docker,figma,github,html,js,linux,materialui,mysql,nodejs,py,react,tailwind,ts,vscode" />
   </a>
 </p>
 
