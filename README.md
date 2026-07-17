@@ -58,5 +58,9 @@ Estudiante de Ingeniería Telemática en la Institución Universitaria de Barran
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RickV22&hide_border=true" alt="GitHub streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RickV22&hide_border=true&area=true" alt="Gráfica de actividad" />
+</p>
+
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
