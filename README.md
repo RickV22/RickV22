@@ -12,7 +12,7 @@
 
 
 
-- 🔭 Actualmente trabajando en PetHouse, plataforma de adopción responsable de mascotas con IA.
+- 🔭 Actualmente trabajando en PetHouse, plataforma de adopción de mascotas, con IA.
 - 🌱 Aprendiendo a integrar modelos de IA (Ollama/LLaMA) en aplicaciones web.
 - 👯 Puedo colaborar en proyectos de Angular, React, React Native y desarrollo Android nativo
 - 💬 📍 Barranquilla, Colombia
